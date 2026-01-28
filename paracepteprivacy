@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"/>
+  <title>ParaCepte Gizlilik Politikası</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+</head>
+<body style="font-family: -apple-system, Arial; padding: 24px; line-height: 1.6; max-width: 920px;">
+  <h1>ParaCepte Gizlilik Politikası</h1>
+  <p><b>Son güncelleme:</b> 28 Ocak 2026</p>
+
+  <p>Bu Gizlilik Politikası, ParaCepte uygulamasını kullanmanız sırasında toplanan verileri, bu verilerin nasıl işlendiğini, saklandığını ve paylaşıldığını açıklar. Uygulamayı kullanarak bu politikada belirtilen işlemlere onay vermiş olursunuz.</p>
+
+  <h2>1) Veri Sorumlusu</h2>
+  <p><b>Ad Soyad / Ünvan:</b> [BURAYA AD SOYAD] <br>
+     <b>İletişim:</b> [E-POSTA] <br>
+     <b>Adres:</b> [İSTEĞE BAĞLI]</p>
+
+  <h2>2) Toplanan Veri Türleri</h2>
+  <ul>
+    <li><b>Kimlik ve iletişim:</b> ad, e‑posta, kullanıcı adı</li>
+    <li><b>Finansal veriler:</b> gelir/gider, bütçe, varlık, işlem başlığı, tutar, tarih, kategori, notlar</li>
+    <li><b>Kullanıcı içerikleri:</b> profil fotoğrafı, gider/plan/anı fotoğrafları, yorumlar, notlar</li>
+    <li><b>Konum:</b> kullanıcı izin verdiğinde konum/konum adresi/koordinat</li>
+    <li><b>Cihaz ve tanımlayıcılar:</b> Firebase UID, cihaz/kurulum ID, bildirim tokenları</li>
+    <li><b>Kullanım verileri:</b> ekran ve özellik etkileşimleri (analytics)</li>
+    <li><b>Tanılama verileri:</b> çökme ve performans verileri</li>
+  </ul>
+
+  <h2>3) Verilerin İşlenme Amaçları</h2>
+  <ul>
+    <li>Hizmeti sunmak ve uygulamayı çalıştırmak</li>
+    <li>Hesap oluşturma, oturum yönetimi ve güvenlik</li>
+    <li>Finansal özetlerin, raporların ve planların oluşturulması</li>
+    <li>Kullanıcı deneyimini kişiselleştirmek (ör. adla karşılama)</li>
+    <li>Hata tespiti ve performans iyileştirmeleri</li>
+    <li>Satın alma ve abonelik işlemlerini yönetmek</li>
+  </ul>
+
+  <h2>4) Hukuki Sebepler</h2>
+  <p>KVKK ve ilgili mevzuata uygun şekilde; <b>sözleşmenin kurulması/ifası</b>, <b>meşru menfaat</b>, <b>açık rıza</b> (örn. konum/fotoğraf izinleri) ve gerekli hallerde <b>hukuki yükümlülük</b> kapsamında işlenir.</p>
+
+  <h2>5) Veri Paylaşımı</h2>
+  <p>Verileriniz yalnızca hizmetin sunulması için gerekli olan altyapı sağlayıcıları ile paylaşılabilir:</p>
+  <ul>
+    <li><b>Firebase (Google LLC):</b> Kimlik doğrulama, veritabanı, depolama, bildirim, analytics, crash/performance</li>
+    <li><b>RevenueCat:</b> Abonelik ve satın alma yönetimi</li>
+    <li><b>Apple/Google platform servisleri:</b> Bildirim ve ödeme altyapısı</li>
+  </ul>
+  <p>Kişisel veriler hiçbir şekilde üçüncü taraf reklam şirketlerine satılmaz veya reklam amaçlı paylaşılmaz.</p>
+
+  <h2>6) Verilerin Saklanması ve Güvenliği</h2>
+  <p>Veriler, güvenli bulut altyapılarında saklanır. Teknik ve idari güvenlik önlemleri uygulanır. Saklama süresi, hizmetin sunulması için gerekli olan süre ile sınırlıdır.</p>
+
+  <h2>7) Çocukların Gizliliği</h2>
+  <p>Uygulama 13 yaş altı kullanıcılar için tasarlanmamıştır. Bu yaş grubuna ait veri tespit edilirse silinir.</p>
+
+  <h2>8) Haklarınız</h2>
+  <p>KVKK kapsamında kişisel verilerinize erişme, düzeltme, silme, itiraz etme ve rızanızı geri çekme hakkına sahipsiniz. Talepler için aşağıdaki iletişim adresi kullanılabilir:</p>
+  <p><b>E‑posta:</b> [DESTEK E-POSTASI]</p>
+
+  <h2>9) Güncellemeler</h2>
+  <p>Bu politika zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanır.</p>
+</body>
+</html>
